@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi 👋 My name is Yuji Sakaguchi
+
+Junior Computer Science Undergraudate at UC Santa Barbara 
 
 <!--
 **yuji-sakaguchi/yuji-sakaguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
