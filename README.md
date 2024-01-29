@@ -4,7 +4,7 @@ Junior Computer Science undergraduate at UC Santa Barbara
 -------------------------------------------------
 A software engineer based in the Bay Area
 -------------------------------------------------
-- 📫 How to reach me **yujisakaguch17@gmail.com**
+- 📫 How to reach me **yujisakaguchi17@gmail.com**
 
 ### Skills
 <p align="left">
