@@ -1,4 +1,4 @@
-Hi, My name is Yuji Sakaguchi 👋
+Hi, My name is Yuji Sakaguchi👋
 ==========================
 Junior Computer Science undergraduate at UC Santa Barbara 
 -------------------------------------------------
