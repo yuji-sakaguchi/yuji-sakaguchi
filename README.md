@@ -1,6 +1,6 @@
 Hi, My name is Yuji Sakaguchi👋
 ==========================
-Junior Computer Science undergraduate at UC Santa Barbara 
+Computer Science undergraduate at UC Santa Barbara 
 -------------------------------------------------
 A software engineer based in the Bay Area
 -------------------------------------------------
