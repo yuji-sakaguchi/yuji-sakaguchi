@@ -4,7 +4,10 @@ A Full Stack Developer based in the Bay Area
 -------------------------------------------------
 - 🔭 I’m currently working on a Full Stack AI SaaS Platform
 - 🌱 I’m currently learning TypeScript, AWS
-- 📫 How to reach me **yujisakaguchi27@gmail.com** 
+- 📫 How to reach me **yujisakaguchi27@gmail.com**
+
+### Connect with me 
+<p align="left"> <a href="https://www.linkedin.com/in/yuji-sakaguchi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>
 
 ### Skills
 <p align="left">
@@ -33,11 +36,8 @@ A Full Stack Developer based in the Bay Area
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="linux" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="40" height="40" alt="Windows" /></a>
 
-### Socials
-<p align="left"> <a href="https://www.linkedin.com/in/yuji-sakaguchi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  
-### Badges
-<a href="https://github.com/yuji-sakaguchi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuji-sakaguchi&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuji-sakaguchi&show_icons=true&locale=en&layout=compact" alt="yuji-sakaguchi" /></p>
+
 
 <!--
 **yuji-sakaguchi/yuji-sakaguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,5 +59,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-🔬%20Grocery%20Sharing%20App-000)](https://github.com/adamalston/overwatch)
 [![](https://img.shields.io/badge/-🔬%20Responsive%20Dashboard-000)](https://github.com/adamalston/overwatch)
 [![](https://img.shields.io/badge/-📝%20Abstract%20Syntax%20Tree-000)](https://github.com/adamalston/Summarizer)
+
+<a href="https://github.com/yuji-sakaguchi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuji-sakaguchi&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 -->
