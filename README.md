@@ -40,6 +40,7 @@ A Full Stack Developer based in the Bay Area
 
 ### Completed Projects
 [![](https://img.shields.io/badge/-🤖%20AI%20SaaS%20Platform-000)](https://github.com/yuji-sakaguchi/imagnify)
+[![](https://img.shields.io/badge/-💻%20Simple%20Operating%20System-000)](https://github.com/yuji-sakaguchi/operating-system)
 [![](https://img.shields.io/badge/-🍴%20Grocery%20Sharing%20App-000)](https://github.com/yuji-sakaguchi/grocery-sharing-app)
 [![](https://img.shields.io/badge/-💸%20Brokerage%20Database%20System-000)](https://github.com/yuji-sakaguchi/brokerage-database-system)
 [![](https://img.shields.io/badge/-📋%20Responsive%20Dashboard-000)](https://github.com/yuji-sakaguchi/Responsive-Dashboard)
