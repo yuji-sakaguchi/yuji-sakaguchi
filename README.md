@@ -36,7 +36,7 @@ A Full Stack Developer based in the Bay Area
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="linux" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="40" height="40" alt="Windows" /></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuji-sakaguchi&show_icons=true&locale=en&layout=compact" alt="yuji-sakaguchi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuji-sakaguchi&show_icons=true&locale=en&layout=compact" alt="yuji-sakaguchi" />
 
 ### Completed Projects
 [![](https://img.shields.io/badge/-🤖%20AI%20SaaS%20Platform-000)](https://github.com/yuji-sakaguchi/imagnify)
@@ -59,12 +59,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Completed Projects
-[![](https://img.shields.io/badge/-🧬%20AI%20Saas%20Platform-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20Brokerage%20Database%20System-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-🔬%20Grocery%20Sharing%20App-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🔬%20Responsive%20Dashboard-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-📝%20Abstract%20Syntax%20Tree-000)](https://github.com/adamalston/Summarizer)
+<img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=yuji-sakaguchi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000" /> </p>
 
 <a href="https://github.com/yuji-sakaguchi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuji-sakaguchi&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
