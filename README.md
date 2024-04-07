@@ -16,15 +16,14 @@ A Full Stack Developer based in the Bay Area
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" width="40" height="40" /></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C" /></a>
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="Cplusplus" /></a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" width="40" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="NextJs" /></a>
-  <!--
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="40" height="40" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="40" height="40" alt="Express" /></a>
-  -->
 <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="RESTfulAPI" width="40" height="40" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="40" height="40" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" /></a>
@@ -63,7 +62,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/yuji-sakaguchi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuji-sakaguchi&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" width="40" height="40" /></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
 
